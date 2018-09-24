@@ -1,0 +1,8 @@
+step element intro position,,,
+1,#cnt,Hier findest du einzelne Schritte die dir zur besseren Orientierung und zum Verständnis der Graphiken helfen,bottom    
+3,#cntr,Hier wählst du zunächst eine Stadt aus,bottom
+2,#aktuell,Die Boxen in dieser Reihe geben dir allgemeine Informationen über senseBoxen,bottom
+5,#pm,"Hier siehst du die Feinstaub Konzentrationen von PM10 und PM25. Die Konzentrationen hängen davon ab, wie viel verschmutzung sich in der Luft befindet. ",bottom
+6,#th,Hier siehst du die Korrelation zwischen Luft-Temperatur und relativer Luftfeuchtigkeit. ,bottom
+7,#pmc,Hier siehst du die Feinstaub Konzentration der letzten 24 Stunden,bottom
+8,#senseMap,"Auf der Karte wird dir angezeigt, wo sich die Stadt auf der Karte befindet",bottom

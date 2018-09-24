@@ -1,0 +1,10 @@
+"step  ","element","intro","position"
+1,"#cnt","Hier findest du einzelne Schritte die dir zur besseren Orientierung und zum Verständnis der Graphiken helfen.","bottom    "
+2,"#cnt","Wähle eine Stadt aus, für die du dich interessierst.","right"
+3,"#senseMap","Hier wird dir angezeigt, wo sich die Stadt auf der Karte befindet.","bottom"
+4,"#oldest","Die Boxen in dieser Zeile geben dir allgemeine Informationen zu den senseBoxen",
+5,"#aktuell_h","Die Boxen in dieser Zeile geben dir Auskunft über die aktuellen Werte der Stadt. Sie setzen sich aus Mittelwerten von mehreren Messstationen zusammen.","bottom"
+6,"#pm3","Hier siehst du die Feinstaub Konzentrationen von PM10 und PM25. Die Konzentrationen hängen davon ab, wie viele Partikel sich in der Luft befinden.","top"
+7,"#th3","Hier siehst du die Korrelation zwischen Lufttemperatur und relativer Luftfeuchtigkeit. Je wärmer es ist, desto niedriger ist die relative Luftfeuchtigkeit.","top"
+8,"#ld3","Hier siehst du den Luftdruck der dich umgebenden Atmosphäre. Der Luftdruck nimmt mit der Höhe ab. ","top"
+9,"#saf","Oben rechts auf der Seite findest du einen Link zum Spatial-Dashboard gitub repository. ",
